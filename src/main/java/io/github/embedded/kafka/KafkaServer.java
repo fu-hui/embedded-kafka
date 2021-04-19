@@ -1,4 +1,4 @@
-package com.github.embedded.kafka;
+package io.github.embedded.kafka;
 
 import kafka.server.KafkaServerStartable;
 import org.apache.kafka.common.utils.Utils;

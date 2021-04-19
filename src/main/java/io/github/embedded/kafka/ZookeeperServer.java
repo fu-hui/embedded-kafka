@@ -1,4 +1,4 @@
-package com.github.embedded.kafka;
+package io.github.embedded.kafka;
 
 import org.apache.zookeeper.server.quorum.QuorumPeerMain;
 

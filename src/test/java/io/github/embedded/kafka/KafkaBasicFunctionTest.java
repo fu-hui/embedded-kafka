@@ -1,4 +1,4 @@
-package com.github.embedded.kafka;
+package io.github.embedded.kafka;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
